@@ -1,0 +1,1 @@
+type LngLat = [number, number];
